@@ -1,0 +1,9 @@
+name=Q1Mini
+version=1.0.0
+author=Jade Robotics
+maintainer=Master Level 1
+sentence=Library for controlling Q1 Mini quadruped robot.
+paragraph=Provides movement functions such as forward, backward, left, right, hi, pushUp, dance, and fight.
+category=Device Control
+url=https://github.com/yourrepo/Q1Mini
+architectures=*
